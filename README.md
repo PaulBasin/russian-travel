@@ -2,8 +2,9 @@
 
 Ссылка на Github Pages
 
-[Обычная ссылка](https://www.yandex.ru)
+[https://paulbasin.github.io/russian-travel/](https://paulbasin.github.io/russian-travel/){target="_blank"}
 
-Адаптивный макет под основные размеры девайсов, проект сделан с файловой структурой по БЭМ, использованы технологии flexbox и grid layout.
+Адаптивный макет под основные размеры девайсов.
+Проект сделан с файловой структурой по БЭМ nested, использованы технологии flexbox и grid layout.
 
 

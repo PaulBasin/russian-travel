@@ -5,7 +5,8 @@
   margin: auto;
   width: calc(100% - 96px);
   max-width: 1184px;
-  min-height: 80px;
+  min-height: 53px;
+  padding: 28px 0 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -17,7 +18,8 @@
 @media screen and (max-width: 700px) {
   .header {
     width: calc(100% - 32px);
-    min-height: 58px;
+    min-height: 42px;
+    padding: 16px 0 0;
   }
 }
 
