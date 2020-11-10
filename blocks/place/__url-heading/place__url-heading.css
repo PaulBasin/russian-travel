@@ -1,7 +1,10 @@
 .place__url-heading {
   font-size: 12px;
+  text-transform: uppercase;
   line-height: 20px;
   color: #AAAAAA;
   margin: 0;
+  font-weight: 400;
   letter-spacing: 0.2em;
 }
+/* как вы заметили такую тонкость про неверную толщину шрифта, спасибо! поправил :) */

@@ -1,5 +1,5 @@
 .place__title {
-  font-family: 'Inter-Black';
+  font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   width: calc(50% - 40px);

@@ -1,0 +1,17 @@
+.cover__image-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+  text-decoration: none;
+  padding: 16px;
+  color: #fff;
+  position: relative;
+  background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color linear .2s;
+}
+
+.cover__image-link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
